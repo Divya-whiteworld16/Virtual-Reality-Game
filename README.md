@@ -1,5 +1,5 @@
 # Virtual-Reality-Game
-I made VR android game by using unity and techXR sdk . I named it as Corokill. 
+I made 3D VR android game by using unity and techXR sdk . I named it as Corokill. 
 
 
 ## Link for unity package and android.apk file:-
